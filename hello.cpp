@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {
-cout<<"hello world"<<endl;
+cout<<"hello 1 world"<<endl;
 }
